@@ -1,0 +1,51 @@
+h1,h2 {
+    font-size: 30px;
+}
+
+p {
+    margin: 10px;
+}
+
+.base {
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.title {
+    font-size: 30px;
+    color: black;
+    font-style: italic;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.repetition {
+    margin: 10px;
+    text-align: start;
+}
+
+.decoration {
+    text-decoration: underline;
+}
+
+.WARNING {
+    margin: 10px;
+
+    color: red;
+    font-style: italic;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.textShedow {
+    text-shadow: 1px 1px 1px black;
+    text-indent: 20px;
+}
+
+.leterSpacing {
+    letter-spacing: 5px;
+}
